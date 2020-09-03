@@ -29,7 +29,7 @@ Can i use Metamask on your website?
 
 Yes you can.
 
-Can i mine lukcyjar tokens?
+Can i mine luckyjar tokens?
 
 Yes. By sending any amount of ETH to the lottery pool (ERC20 contract) you will get automatic LJAR tokens. These are not premined. The amount of total coins in existing is depening on how many people are joining the pool.
 
