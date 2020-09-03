@@ -12,6 +12,18 @@ What does this contract do?
 - Minimum amount of ETH to join the pool is 0.01 ETH
 - We need at least x amount of participants to auto pick a winner (x stands for value in the contract that could be read on etherscan)
 - We need at least x amount of total ETH balance on the ERC20 contract for autopicking a winner (x stands for value in the contract that could be read on etherscan)
+- The winner will receive 80% of the ETH pool
+
+What are the admin features of this contract?
+
+- Change the name of the token
+- Change the symbol of the token
+- Change the amount of Luckyjar you will get for each ETH
+- Change the total amount of the total participants for autopicking winners
+- Change the total amount of ETH the pool need for autopicking winners
+- Change the requirement amount of ETH that you will need to send for joining the pool
+- Hit the autopick button for auto selecting the winner of one of the participants to end the current pool
+- Change the admin ETH address
 
 How does it autopick a winner?
 
