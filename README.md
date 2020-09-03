@@ -3,12 +3,12 @@ Within a few simple steps you can join the ETH lottery pool and waiting to get p
 
 How does it works?
 
-Luckyjar.io is the website of the luckyjar token (LJAR) that is based on an ERC20 Ethereum smartcontract.
+Luckyjar.io is the website of the Luckyjar token (LJAR) that is based on an ERC20 Ethereum smartcontract.
 
 What does this contract do?
 
-- For 1 ETH that you send in the pool you will get 1000 Luckyjar tokens
-- The tokens are NOT premined. Meaning there is no one holding the Lukcyjar tokens and it will automine the coins when you join the pool
+- For 1 ETH that you send in the pool you will get 1000 Luckyjar tokens (0.01 ETH will give you 10 LJAR tokens as an example)
+- The tokens are NOT premined. Meaning there is no one holding the Luckyjar tokens and it will automine the coins when you join the pool
 - Minimum amount of ETH to join the pool is 0.01 ETH
 - We need at least x amount of participants to auto pick a winner (x stands for value in the contract that could be read on etherscan)
 - We need at least x amount of total ETH balance on the ERC20 contract for autopicking a winner (x stands for value in the contract that could be read on etherscan)
@@ -52,3 +52,7 @@ What is our contract address?
 What is our website address?
 
 https://www.luckyjar.io
+
+For easy and short explanation what this ERC20 contract does and what the Luckyjar.io and Luckyjar tokens means i will invite you to watch our explanation video:
+
+https://www.youtube.com/watch?v=_Zs80JspWyE
