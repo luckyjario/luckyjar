@@ -3,7 +3,7 @@ Within a few simple steps you can join the ETH lottery pool and waiting to get p
 
 How does it works?
 
-Luckyjar.io is the website of the lukcyjar token (LJAR) that is based on an ERC20 Ethereum contract.
+Luckyjar.io is the website of the luckyjar token (LJAR) that is based on an ERC20 Ethereum smartcontract.
 
 What does this contract do?
 
@@ -26,13 +26,17 @@ Can the admin of the contract hit the select winner button?
 Yes i can. What it does is randomly automatic select any participants that joined the lottery pool.
 
 Can i use Metamask on your website?
+
 Yes you can.
 
 Can i mine lukcyjar tokens?
+
 Yes. By sending any amount of ETH to the lottery pool (ERC20 contract) you will get automatic LJAR tokens. These are not premined. The amount of total coins in existing is depening on how many people are joining the pool.
 
 What is our contract address?
+
 0x3DB91D5b96b0Fbb535f86Db28ffaD15517c0Fc0c
 
 What is our website address?
+
 https://www.luckyjar.io
