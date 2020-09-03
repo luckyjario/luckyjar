@@ -1,5 +1,5 @@
 Luckyjar is the first simple and working automatic lottery picker on the ERC20 blockchain technology.
-Within a few simple steps you can join the ETH lottery pool and waiting to get pciked as the winner.
+Within a few simple steps you can join the ETH lottery pool and waiting to get picked as the winner.
 
 How does it works?
 
